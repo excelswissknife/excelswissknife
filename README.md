@@ -198,6 +198,8 @@ Excel Swiss Knife has been developed and maintained for years as a free tool.
 
 If it saved you time or frustration, please consider supporting its development.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F444XNN)
+
 https://www.excelswissknife.com/donate
 
 ---
